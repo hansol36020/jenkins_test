@@ -1,7 +1,7 @@
 # sol2
 
-##jenkins Build
+## jenkins Build
 ![pipe line](1. pipeline.PNG)
 
-##Artifactory
+## Artifactory
 ![artifactory](2. tomcat admin ui.PNG)
