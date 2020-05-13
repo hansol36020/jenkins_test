@@ -1,8 +1,8 @@
 # sol1
 
 ##jenkins Build
-![jenkins build1](1.1 jenkinsbuild.PNG)
-![jenkins build2](1.pipeline build 1.PNG)
+![jenkins build1](1.1jenkinsbuild.PNG)
+![jenkins build2](1.pipeline_build.PNG)
 
 ##Artifactory
-![artifactory](2. artifactory.PNG)
+![artifactory](2.artifactory.PNG)
